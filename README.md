@@ -4,4 +4,4 @@ Travel.io is a Travel Advisor web application that gives details of all the rest
 **Let's Travel!**
 ## Features:
 1. Uses Google Maps API to view any location in real time.
-2. 
+2. vzcvzvcx
